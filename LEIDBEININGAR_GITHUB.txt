@@ -63,3 +63,10 @@ Myndböndin ellefu eru í lokuðum reitum við viðeigandi dæmi. Smelltu á
 fyrirsögn til að opna reit og síðan á spilun. Þau birtast ekki í prentun.
 Hladdu allri myndbond/ möppunni upp ásamt index.html þegar þú uppfærir
 GitHub-vefinn. Forsýningarmyndirnar eru í myndbond/forsyningar/.
+
+LEIÐRÉTT ÚTGÁFA 11.10.2026
+Orðalag, þvermálstákn, rótartákn og viðeigandi myndir og myndbönd hafa
+verið samræmd. Hladdu öllum skrám pakkans upp við þessa uppfærslu,
+þar á meðal index.html, lota29-prent.pdf, myndir/ og myndbond/.
+Leiðrétt rótartákn eru innbyggð í HTML og þurfa enga uppsetningu.
+Endurhlaðaðu opnum vef eftir að skránum hefur verið skipt út.
