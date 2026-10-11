@@ -1,0 +1,65 @@
+LOTA 29 - VEFUR FYRIR GITHUB PAGES
+
+1. Afþjappaðu ZIP-pakkanum.
+2. Hladdu innihaldinu upp í GitHub-gagnasafnið þitt. Skráin index.html
+   á að vera í rót útgáfumöppunnar, með PDF-skjölunum og formulublad.html.
+   Ekki hlaða ZIP-skránni einni upp sem vefsíðu.
+3. Í GitHub velurðu Settings > Pages. Undir Build and deployment velurðu
+   Deploy from a branch og síðan greinina sem geymir skrárnar (oft main)
+   og / (root). Vistaðu með Save.
+4. Þegar GitHub hefur lokið birtingu birtist slóð vefsins í Pages-stillingunum.
+
+Ef GitHub Pages er þegar virkt má setja allan pakkann í undirmöppu, t.d.
+lota29. Tenglar milli HTML og PDF virka einnig þar, svo lengi sem skrárnar
+halda sömu afstöðu hver til annarrar.
+
+Í pakkanum:
+- index.html: stytt vefhefti með sjö tímum, 33 sýnidæmum, gátlista og hugtökum.
+- lota29-prent.pdf: 38 síðna prentútgáfa úr vefheftinu, Letter.
+- formulublad.html: formúlublað og talnahús á sérstakri vefsíðu.
+- rumfraediformulur-talnahus.pdf: upprunalega tveggja síðna fylgiblaðið, A4.
+- rumfraediformulur-talnahus.tex: breytanlegur frumkóði fylgiblaðsins.
+- myndir/: allar 19 nýju PNG-myndirnar. Mappan verður að fylgja index.html.
+- myndbond/: 11 myndbönd og forsýningarmyndir. Öll mappan verður að fylgja vefnum.
+- frumkodi/: upphaflegt LaTeX-leshefti, Overleaf-pakki og Python-skrár myndbandanna.
+- kennari/: kennaranótur og kortlagning efnis við verkefnablöðin.
+- .nojekyll: stilling fyrir beina birtingu þessara HTML-skráa.
+
+Vefurinn þarfnast ekki uppsetningar eða viðbótarvefþjónustu. Stíll og
+stærðfræði eru innbyggð í HTML. Nýju skýringarmyndirnar eru í myndir/. Hægt er að opna index.html
+beint á tölvu til að skoða efnið fyrir birtingu.
+
+Gátlistinn man merkingar á sama tæki í sama vafra þegar vafrinn leyfir
+vistun. Merkingarnar samstillast ekki milli tækja. Í sumum vöfrum getur
+vistun verið takmörkuð þegar HTML-skráin er opnuð beint af tölvu.
+
+Prentaðu lesheftið úr lota29-prent.pdf. Formúlublaðið og talnahúsið eru
+prentuð sérstaklega úr rumfraediformulur-talnahus.pdf (A4).
+
+Vefurinn var prófaður staðbundið. Birting í þínu GitHub-gagnasafni er ekki
+framkvæmd hér; hún tekur gildi þegar þú hleður skránum upp og virkjar Pages.
+
+Opinberar leiðbeiningar GitHub:
+https://docs.github.com/en/pages/quickstart
+
+MYNDAUPPFÆRSLA 10.10.2026
+Allar 19 skýringarmyndir hafa verið endurnýjaðar með innsendum myndum
+í blek- og litablýantsstíl. Hladdu myndir/ upp með vefnum þegar þú uppfærir
+GitHub Pages. Endurhlaðaðu vefsíðunni til að sjá breytingarnar.
+
+STYTT ÚTGÁFA 10.10.2026
+Dæmafyrirsagnir eru án númera, eins og í samþykktu Lotu 28 sniði.
+Sýnidæmum hefur verið fækkað úr 53 í 33 og endurteknum aukalausnum sleppt.
+Nokkrar framhaldsspurningar eru án lausnar. Allar 19 myndirnar fylgja áfram.
+index.html og lota29-prent.pdf eru núverandi nemendaútgáfur. LaTeX-skrárnar
+í frumkodi/ og upphafleg efnisyfirlit í kennari/ eru eldri og ítarlegri útgáfur.
+
+SÍÐASTA YFIRFERÐ
+Formúlur nota brotalínur og orðalag hefur verið yfirfarið. Radíus er
+notað áfram; geisli er nefndur sem annað heiti. HTML og prent-PDF eru samræmd.
+
+MYNDBÖND 11.10.2026
+Myndböndin ellefu eru í lokuðum reitum við viðeigandi dæmi. Smelltu á
+fyrirsögn til að opna reit og síðan á spilun. Þau birtast ekki í prentun.
+Hladdu allri myndbond/ möppunni upp ásamt index.html þegar þú uppfærir
+GitHub-vefinn. Forsýningarmyndirnar eru í myndbond/forsyningar/.
