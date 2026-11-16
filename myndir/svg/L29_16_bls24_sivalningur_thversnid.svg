@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="860" viewBox="0 0 610 860" role="img"><title>Rétthyrnt þversnið sívalnings með hæð 24 cm og hornalínu 25 cm</title><rect width="100%" height="100%" fill="#fff"/><path d="M 150 60 L 351.25 60 L 351.25 750 L 150 750 Z" fill="#EAF0F3" stroke="#303C43" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 150 60 L 351.25 750" fill="none" stroke="#326E8D" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 150 728 H 172 V 750" fill="none" stroke="#66747C" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="78" y="405" font-family="Cambria, Georgia, serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#303C43" transform="rotate(-90 78 405)">24 cm</text>
+<text x="250.625" y="807" font-family="Cambria, Georgia, serif" font-size="40" text-anchor="middle" dominant-baseline="central" fill="#303C43">þ</text>
+<text x="460" y="405" font-family="Cambria, Georgia, serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#303C43">25 cm</text>
+<path d="M 398 405 L 260.625 405" fill="none" stroke="#66747C" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 260.625 405 L 270.625 401.4 L 270.625 408.6 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/></svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="420" viewBox="0 0 1180 420" role="img"><title>84 cm löng og 24 cm há plata rúlluð í sívalning</title><rect width="100%" height="100%" fill="#fff"/><path d="M 125 110 L 650 110 L 650 260 L 125 260 Z" fill="#EAF0F3" stroke="#303C43" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 125 269 L 125 329" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 650 269 L 650 329" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 125 319 L 650 319" fill="none" stroke="#66747C" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 650 319 L 640 322.6 L 640 315.4 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 125 319 L 135 322.6 L 135 315.4 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="387.5" y="349" font-family="Cambria, Georgia, serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#303C43">84 cm</text>
+<path d="M 116 110 L 63 110" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 116 260 L 63 260" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 73 110 L 73 260" fill="none" stroke="#66747C" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 73 260 L 69.4 250 L 76.6 250 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 73 110 L 69.4 120 L 76.6 120 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="41" y="185" font-family="Cambria, Georgia, serif" font-size="30" text-anchor="middle" dominant-baseline="central" fill="#303C43" transform="rotate(-90 41 185)">24 cm</text>
+<path d="M 700 185 L 785 185" fill="none" stroke="#66747C" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 785 185 L 775 188.6 L 775 181.4 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 816.4 110 L 816.4 260 A 83.6 25 0 0 0 983.6 260 L 983.6 110 Z" fill="#EAF0F3" stroke="#303C43" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="900" cy="110" rx="83.6" ry="25" fill="#F6F8F9" stroke="#303C43" stroke-width="2.7"/>
+<path d="M 816.4 260 A 83.6 25 0 0 1 983.6 260" fill="none" stroke="#7E8B92" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 6"/>
+<path d="M 992.6 110 L 1040 110" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 992.6 260 L 1040 260" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1030 110 L 1030 260" fill="none" stroke="#66747C" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1030 260 L 1026.4 250 L 1033.6 250 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1030 110 L 1026.4 120 L 1033.6 120 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1062" y="185" font-family="Cambria, Georgia, serif" font-size="30" text-anchor="middle" dominant-baseline="central" fill="#303C43" transform="rotate(-90 1062 185)"><tspan font-style="italic">h</tspan> = 24 cm</text></svg>

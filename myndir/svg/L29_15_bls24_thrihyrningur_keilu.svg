@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="860" viewBox="0 0 560 860" role="img"><title>Réttur þríhyrningur: h = 40 cm, s = 41 cm og óþekktur geisli r</title><rect width="100%" height="100%" fill="#fff"/><path d="M 155 60 L 155 760 L 312.5 760 Z" fill="#EAF0F3" stroke="#303C43" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 155 737 H 178 V 760" fill="none" stroke="#326E8D" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="80" y="410" font-family="Cambria, Georgia, serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#303C43" transform="rotate(-90 80 410)"><tspan font-style="italic">h</tspan> = 40 cm</text>
+<text x="325" y="425" font-family="Cambria, Georgia, serif" font-size="34" text-anchor="start" dominant-baseline="central" fill="#303C43"><tspan font-style="italic">s</tspan> = 41 cm</text>
+<text x="233.75" y="812" font-family="Cambria, Georgia, serif" font-size="40" text-anchor="middle" dominant-baseline="central" fill="#303C43"><tspan font-style="italic">r</tspan></text></svg>

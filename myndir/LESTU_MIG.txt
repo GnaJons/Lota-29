@@ -1,0 +1,18 @@
+LOTA 29 – STÍLHREINAR RÚMFRÆÐIMYNDIR
+
+19 endurteiknaðar myndir. Tölur, formúlur og óþekktar stærðir fylgja myndunum sem kennari lagði fram. R táknar rúmmál; þ táknar þvermál. Myndirnar eru skýringarmyndir og ekki ætlaðar til lengdarmælinga.
+
+SKRÁR
+myndir/: 19 PNG-myndir með hvítum bakgrunni, í góðri upplausn.
+svg/: sömu 19 myndir sem breytanlegar SVG-vektormyndir.
+Yfirlit.html: opnast í vafra án nettengingar, sýnir allar myndir og tengla.
+Yfirlit_1.png til Yfirlit_5.png: smækkað yfirlit yfir allt safnið.
+Lota29_stilsynishorn.png: fjórar valdar myndir.
+frumkodi/: Node.js-kóði og myndaskrá. Keyra með Node.js og sharp.
+
+VEFSÍÐAN
+PNG-skrárnar í myndir/ bera nákvæmlega sömu heiti og 19 myndirnar á https://gnajons.github.io/Lota-29/. Þær eru því tilbúnar til að skipta út samsvarandi skrám í myndir/ í GitHub-safninu. Pakkinn hefur ekki sjálfur verið birtur á vefsíðunni.
+
+LETUR OG LITIR
+Cambria (vara: Georgia eða serif). Dökkgráar útlínur, ljósblágráir og ljósgrænir fletir. Blátt merkir hjálparlínur, hæðir og geisla. Fjólublátt aðgreinir rúmhornalínu. Engin áferð, vatnsmerki eða skraut.
+SVG notar texta svo auðvelt sé að breyta merkingum. PNG heldur nákvæmlega letrinu sem var notað við útflutning.
