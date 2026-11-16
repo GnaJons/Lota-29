@@ -1,4 +1,5 @@
 LOTA 29 - VEFUR FYRIR GITHUB PAGES
+Núverandi útgáfa: 15.11.2026. Tímar 1-7 yfirfarnir samkvæmt Lota 28 stíl 1.0.19.
 
 1. Afþjappaðu ZIP-pakkanum.
 2. Hladdu innihaldinu upp í GitHub-gagnasafnið þitt. Skráin index.html
@@ -15,11 +16,11 @@ halda sömu afstöðu hver til annarrar.
 
 Í pakkanum:
 - index.html: stytt vefhefti með sjö tímum, 33 sýnidæmum, gátlista og hugtökum.
-- lota29-prent.pdf: 38 síðna prentútgáfa úr vefheftinu, Letter.
+- lota29-prent.pdf: 50 síðna prentútgáfa úr vefheftinu, Letter.
 - formulublad.html: formúlublað og talnahús á sérstakri vefsíðu.
 - rumfraediformulur-talnahus.pdf: upprunalega tveggja síðna fylgiblaðið, A4.
 - rumfraediformulur-talnahus.tex: breytanlegur frumkóði fylgiblaðsins.
-- myndir/: allar 19 nýju PNG-myndirnar. Mappan verður að fylgja index.html.
+- myndir/: 19 PNG-myndskrár; 18 myndir birtast nú í heftinu. Mappan fylgir index.html.
 - myndbond/: 11 myndbönd og forsýningarmyndir. Öll mappan verður að fylgja vefnum.
 - frumkodi/: upphaflegt LaTeX-leshefti, Overleaf-pakki og Python-skrár myndbandanna.
 - kennari/: kennaranótur og kortlagning efnis við verkefnablöðin.
@@ -70,3 +71,75 @@ verið samræmd. Hladdu öllum skrám pakkans upp við þessa uppfærslu,
 þar á meðal index.html, lota29-prent.pdf, myndir/ og myndbond/.
 Leiðrétt rótartákn eru innbyggð í HTML og þurfa enga uppsetningu.
 Endurhlaðaðu opnum vef eftir að skránum hefur verið skipt út.
+
+MINNI MYNDIR 11.10.2026
+Allar 19 skýringarmyndir í heftinu eru 35% minni á breidd og hæð.
+Ný prentútgáfa er 37 síður. Myndskrár halda fullri upplausn.
+Samþykktu rótartáknin haldast óbreytt.
+
+UPPFÆRÐAR KENNSLUREGLUR 13.10.2026
+Öll 33 sýnidæmin hafa verið yfirfarin. Þau eru nú merkt DÆMI 1 til DÆMI 33
+í samfelldri röð, samkvæmt nýjustu reglunum. Eldri innri tenglar haldast.
+Skýr verkefnaspurning kemur á undan lausn, nauðsynleg reikniskref eru
+útskýrð og lokasvör hafa tvöfalda undirstrikun. Nákvæmum lokasvörum fylgir
+tugabrot með tveimur aukastöfum þar sem við á. Reikniaðgerðir hafa fasta
+liti og innsett tölugildi eru í grænbláum svigum. Jafnaðarmerki í
+jöfnulausnum eru í lóðréttri línu. Framhaldsspurningar eru áfram óleystar.
+Samþykkt rótartákn og 35% minnkun skýringarmynda haldast. Myndböndin ellefu
+eru áfram í lokuðum reitum. Formúlublaðið á vefnum hefur sömu aðgerðaliti;
+upprunalega PDF-fylgiblaðið og talnahúsið fylgja áfram sérstaklega.
+Hladdu öllum skrám ZIP-pakkans upp saman og endurhlaðaðu síðan vefsíðunni.
+
+TÍMI 1 YFIRFARINN 15.11.2026
+Orðalag, forsendur og reikniskref í tíma 1 eru samræmd íslensku námsefni
+og nýjustu kennslureglum viðbótarinnar. Yfirlit, gátlisti og viðeigandi
+hugtök eru uppfærð. Heimildir og breytingar eru skráðar í kennaranótu.
+Hladdu skrám upp úr þessum pakka og endurhlaðaðu vefsíðunni.
+
+ORÐALAG SAMRÆMT 15.11.2026
+Heitið „snið“ er notað í heftinu og myndbandinu „Yfirborð og snið“.
+Hladdu nýju HTML-, PDF- og myndbandaskránum ásamt forsýningarmynd upp
+með pakkanum og endurhlaðaðu síðunni.
+
+TÍMAR 1-3 YFIRFARNIR 15.11.2026
+Núverandi pakki inniheldur einnig yfirferð sívalninga í tíma 3.
+Orðalag, hugtök, reikniskref og einingabreytingar eru samræmd;
+gátlisti og hugtakaskrá fylgja. Prentheftið er nú 49 síður.
+
+TÍMAR 1-4 YFIRFARNIR 15.11.2026
+Tími 4 um strýtur er nú yfirfarinn. Notað er „skáhlið keilu“ samkvæmt
+vali kennara. Texti, hugtök, reikniskref og tvö myndbönd eru samræmd.
+Hladdu nýju myndböndunum upp með index.html og PDF-skránni þegar vefurinn
+er uppfærður. Núverandi prenthefti er 50 síður.
+
+TÍMAR 1-5 YFIRFARNIR 15.11.2026
+Tími 5 um kúlur og hálfkúlur er nú yfirfarinn. Orðalag, hugtök, reikniskref,
+gátlisti og hugtakaskrá eru samræmd. Mynd og myndbönd eru varðveitt.
+Núverandi prenthefti er 50 síður. Hladdu upp uppfærðu index.html og
+lota29-prent.pdf ásamt fylgiskrám úr pakkanum. Tímar 6-7 bíða yfirferðar.
+
+TÍMAR 1-6 YFIRFARNIR 15.11.2026
+Tími 6 er nú yfirfarinn: skýli úr hálfum sívalningi, óþekkt hæð og
+prósentuhækkun flatarmáls og rúmmáls. Orðalag, reikniskref, myndatexti
+og gátlisti eru samræmd. Núverandi prenthefti er 50 síður. Hladdu
+upp uppfærðu index.html og lota29-prent.pdf ásamt fylgiskrám úr pakkanum.
+Tími 7 bíður yfirferðar.
+
+TÍMAR 1-7 YFIRFARNIR 15.11.2026
+Efnisyfirferð allra sjö tíma er lokið. Tími 7, gátlisti og þrjú tengd
+myndbönd eru uppfærð. Prentheftið er 50 síður. Hladdu upp öllum
+skrám úr nýja pakkanum, líka myndbond og frumkodi/myndbond. Fyrri
+færslur hér eru útgáfusaga; þær lýsa ekki lengur núverandi stöðu.
+
+HUGTAKASKRÁ OG GÁTLISTI YFIRFARIN 15.11.2026
+Allar 24 hugtakaskýringar og öll 36 gátlistaatriði eru yfirfarin með
+hliðsjón af tímunum sjö. Eldri merkingar gátlistans varðveitast.
+Hladdu upp nýju index.html og lota29-prent.pdf úr þessum pakka.
+Prentheftið er 50 síður. Aðrar nemendaskrár eru óbreyttar frá
+síðustu útgáfu. Kennaraskjöl eru uppfærð með þessari yfirferð.
+
+ÓSVÖRUÐ FRAMHALDSVERKEFNI TEKIN ÚT 15.11.2026
+Sjö ósvaraðar viðbótarspurningar og eitt óleyst verkefni eru tekin úr
+vefheftinu og prentútgáfu. Öll 33 sýnidæmi með útfærðum lausnum haldast.
+Hladdu upp nýju index.html og lota29-prent.pdf úr þessum pakka.
+Prentheftið er áfram 50 síður. Einnig eru kennaraskjöl uppfærð.
