@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="880" viewBox="0 0 1440 880" role="img"><title>Keila og hálfkúla</title><rect width="100%" height="100%" fill="#fff"/><text x="64" y="40" font-family="Cambria, Georgia, serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#73766A">7. TÍMI · HAGNÝT DÆMI II</text>
+<text x="64" y="99" font-family="Cambria, Georgia, serif" font-size="47" text-anchor="start" dominant-baseline="central" fill="#353A32">Keila og hálfkúla</text>
+<path d="M 155 505 A 180 180 0 0 0 515 505 Z" fill="#D0D8BB" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 155 505 L 335 190 L 515 505 A 180 40 0 0 1 155 505 Z" fill="#E4E8D6" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 155 505 A 180 40 0 0 1 515 505" fill="none" stroke="#979B89" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 335 190 L 335 505" fill="none" stroke="#A26D3D" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="10 7"/>
+<path d="M 335 505 L 515 505" fill="none" stroke="#A26D3D" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 335 485 H 355 V 505" fill="none" stroke="#A26D3D" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="310" y="350" font-family="Cambria, Georgia, serif" font-size="36" text-anchor="end" dominant-baseline="central" fill="#A26D3D"><tspan font-style="italic">h</tspan></text>
+<text x="425" y="480" font-family="Cambria, Georgia, serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#A26D3D"><tspan font-style="italic">r</tspan></text>
+<text x="462" y="340" font-family="Cambria, Georgia, serif" font-size="37" text-anchor="middle" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">l</tspan></text>
+<text x="790" y="190" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Möttull keilu</text>
+<text x="790" y="238" font-family="Cambria, Georgia, serif" font-size="44" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">M</tspan> = π<tspan font-style="italic">r</tspan><tspan font-style="italic">l</tspan></text>
+<text x="790" y="325" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Hálfkúla: botnflöturinn dreginn frá</text>
+<text x="790" y="373" font-family="Cambria, Georgia, serif" font-size="43" text-anchor="start" dominant-baseline="central" fill="#353A32">3π<tspan font-style="italic">r</tspan>² − π<tspan font-style="italic">r</tspan>²</text>
+<text x="790" y="460" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Samsett ytra yfirborð</text>
+<text x="790" y="508" font-family="Cambria, Georgia, serif" font-size="43" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">Y</tspan><tspan font-style="italic">F</tspan> = π<tspan font-style="italic">r</tspan><tspan font-style="italic">l</tspan> + 2π<tspan font-style="italic">r</tspan>²</text>
+<text x="790" y="590" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Leggjum saman rúmmálsformúlurnar</text>
+<text x="790" y="650" font-family="Cambria, Georgia, serif" font-size="40" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">R</tspan> = </text>
+<text x="888" y="630" font-family="Cambria, Georgia, serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#353A32">1</text>
+<text x="888" y="674" font-family="Cambria, Georgia, serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#353A32">3</text>
+<path d="M 872 652 L 904 652" fill="none" stroke="#353A32" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="917" y="650" font-family="Cambria, Georgia, serif" font-size="40" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">h</tspan>π<tspan font-style="italic">r</tspan>² +</text>
+<text x="1088" y="630" font-family="Cambria, Georgia, serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#353A32">2</text>
+<text x="1088" y="674" font-family="Cambria, Georgia, serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#353A32">3</text>
+<path d="M 1072 652 L 1104 652" fill="none" stroke="#353A32" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1117" y="650" font-family="Cambria, Georgia, serif" font-size="40" text-anchor="start" dominant-baseline="central" fill="#353A32">π<tspan font-style="italic">r</tspan>³</text>
+<path d="M 65 744 L 1370 744" fill="none" stroke="#E4E5DD" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="65" y="784" font-family="Cambria, Georgia, serif" font-size="27" text-anchor="start" dominant-baseline="central" fill="#73766A">Keilan og hálfkúlan hafa sama radíus r.</text>
+<text x="65" y="825" font-family="Cambria, Georgia, serif" font-size="27" text-anchor="start" dominant-baseline="central" fill="#73766A">Sameiginlegi hringflöturinn er inni í hlutnum og telst ekki með ytra yfirborði.</text></svg>

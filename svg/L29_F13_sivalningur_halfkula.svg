@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="880" viewBox="0 0 1440 880" role="img"><title>Sívalningur með hálfkúlu ofan á</title><rect width="100%" height="100%" fill="#fff"/><text x="64" y="40" font-family="Cambria, Georgia, serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#73766A">6. TÍMI · HAGNÝT DÆMI I</text>
+<text x="64" y="99" font-family="Cambria, Georgia, serif" font-size="47" text-anchor="start" dominant-baseline="central" fill="#353A32">Sívalningur með hálfkúlu ofan á</text>
+<path d="M 150 385 V 650 A 180 40 0 0 0 510 650 V 385 Z" fill="#E4E8D6" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 150 385 A 180 180 0 0 1 510 385 A 180 40 0 0 1 150 385 Z" fill="#D0D8BB" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 150 385 A 180 40 0 0 1 510 385" fill="none" stroke="#979B89" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 150 650 A 180 40 0 0 1 510 650" fill="none" stroke="#979B89" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 330 385 L 510 385" fill="none" stroke="#A26D3D" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="330" cy="385" rx="4" ry="4" fill="#A26D3D" stroke="none" stroke-width="2.7"/>
+<text x="420" y="360" font-family="Cambria, Georgia, serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#A26D3D"><tspan font-style="italic">r</tspan></text>
+<path d="M 519 385 L 595 385" fill="none" stroke="#979B89" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 519 650 L 595 650" fill="none" stroke="#979B89" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 585 385 L 585 650" fill="none" stroke="#73766A" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 585 650 L 581.4 640 L 588.6 640 Z" fill="#73766A" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 585 385 L 581.4 395 L 588.6 395 Z" fill="#73766A" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="615" y="517.5" font-family="Cambria, Georgia, serif" font-size="36" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">h</tspan></text>
+<text x="790" y="185" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Rúmmál sívalnings</text>
+<text x="790" y="233" font-family="Cambria, Georgia, serif" font-size="43" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">R</tspan>₁ = π<tspan font-style="italic">r</tspan>²<tspan font-style="italic">h</tspan></text>
+<text x="790" y="310" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Rúmmál hálfkúlu</text>
+<text x="790" y="367" font-family="Cambria, Georgia, serif" font-size="44" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">R</tspan>₂ = </text>
+<text x="926.84" y="346" font-family="Cambria, Georgia, serif" font-size="37.4" text-anchor="middle" dominant-baseline="central" fill="#353A32">2</text>
+<text x="926.84" y="392" font-family="Cambria, Georgia, serif" font-size="37.4" text-anchor="middle" dominant-baseline="central" fill="#353A32">3</text>
+<path d="M 904.4 369 L 949.2800000000001 369" fill="none" stroke="#353A32" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="963.2800000000001" y="367" font-family="Cambria, Georgia, serif" font-size="44" text-anchor="start" dominant-baseline="central" fill="#353A32">π<tspan font-style="italic">r</tspan>³</text>
+<text x="790" y="470" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Heildarrúmmál</text>
+<text x="790" y="518" font-family="Cambria, Georgia, serif" font-size="43" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">R</tspan> = <tspan font-style="italic">R</tspan>₁ + <tspan font-style="italic">R</tspan>₂</text>
+<text x="790" y="590" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Ytra yfirborð með botni</text>
+<text x="790" y="638" font-family="Cambria, Georgia, serif" font-size="42" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">Y</tspan><tspan font-style="italic">F</tspan> = 2π<tspan font-style="italic">r</tspan><tspan font-style="italic">h</tspan> + 3π<tspan font-style="italic">r</tspan>²</text>
+<path d="M 65 744 L 1370 744" fill="none" stroke="#E4E5DD" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="65" y="784" font-family="Cambria, Georgia, serif" font-size="27" text-anchor="start" dominant-baseline="central" fill="#73766A">h táknar aðeins hæð sívalningshlutans. Heildarhæðin er h + r.</text>
+<text x="65" y="825" font-family="Cambria, Georgia, serif" font-size="27" text-anchor="start" dominant-baseline="central" fill="#73766A">Yfirborðið inniheldur möttul, boginn hálfkúluflöt og einn hringbotn.</text></svg>

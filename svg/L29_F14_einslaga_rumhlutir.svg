@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="880" viewBox="0 0 1440 880" role="img"><title>Einslaga rúmhlutir</title><rect width="100%" height="100%" fill="#fff"/><text x="64" y="40" font-family="Cambria, Georgia, serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#73766A">6. TÍMI · HAGNÝT DÆMI I</text>
+<text x="64" y="99" font-family="Cambria, Georgia, serif" font-size="47" text-anchor="start" dominant-baseline="central" fill="#353A32">Einslaga rúmhlutir</text>
+<path d="M 75 575 L 220 575 L 220 430 L 75 430 Z" fill="#E4E8D6" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 220 575 L 280 525 L 280 380 L 220 430 Z" fill="#D0D8BB" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 75 430 L 220 430 L 280 380 L 135 380 Z" fill="#F4ECD7" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 365 560 L 615 560 L 615 310 L 365 310 Z" fill="#E4E8D6" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 615 560 L 718.448275862069 473.7931034482759 L 718.448275862069 223.79310344827587 L 615 310 Z" fill="#D0D8BB" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 365 310 L 615 310 L 718.448275862069 223.79310344827587 L 468.44827586206895 223.79310344827587 Z" fill="#F4ECD7" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="148" y="626" font-family="Cambria, Georgia, serif" font-size="37" text-anchor="middle" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">l</tspan></text>
+<text x="490" y="615" font-family="Cambria, Georgia, serif" font-size="37" text-anchor="middle" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">k</tspan><tspan font-style="italic">l</tspan></text>
+<path d="M 285 430 L 330 430" fill="none" stroke="#73766A" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 330 430 L 320 433.6 L 320 426.4 Z" fill="#73766A" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="790" y="220" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Allar lengdir margfaldast með k</text>
+<text x="790" y="268" font-family="Cambria, Georgia, serif" font-size="39" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">l</tspan>₂ = <tspan font-style="italic">k</tspan><tspan font-style="italic">l</tspan>₁</text>
+<text x="790" y="380" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Flatarmál margfaldast með k²</text>
+<text x="790" y="428" font-family="Cambria, Georgia, serif" font-size="46" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">Y</tspan><tspan font-style="italic">F</tspan>₂ = <tspan font-style="italic">k</tspan>²<tspan font-style="italic">Y</tspan><tspan font-style="italic">F</tspan>₁</text>
+<text x="790" y="540" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Rúmmál margfaldast með k³</text>
+<text x="790" y="588" font-family="Cambria, Georgia, serif" font-size="46" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">R</tspan>₂ = <tspan font-style="italic">k</tspan>³<tspan font-style="italic">R</tspan>₁</text>
+<path d="M 65 744 L 1370 744" fill="none" stroke="#E4E5DD" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="65" y="784" font-family="Cambria, Georgia, serif" font-size="27" text-anchor="start" dominant-baseline="central" fill="#73766A">k er jákvæður stærðarstuðull. Sömu reglur gilda fyrir alla einslaga rúmhluti.</text>
+<text x="65" y="825" font-family="Cambria, Georgia, serif" font-size="27" text-anchor="start" dominant-baseline="central" fill="#73766A">Allar samsvarandi lengdir verða að breytast í sama hlutfalli.</text></svg>

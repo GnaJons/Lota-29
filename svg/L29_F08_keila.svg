@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="880" viewBox="0 0 1440 880" role="img"><title>Rétt keila</title><rect width="100%" height="100%" fill="#fff"/><text x="64" y="40" font-family="Cambria, Georgia, serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#73766A">4. TÍMI · STRÝTUR</text>
+<text x="64" y="99" font-family="Cambria, Georgia, serif" font-size="47" text-anchor="start" dominant-baseline="central" fill="#353A32">Rétt keila</text>
+<path d="M 165 635 L 340 205 L 515 635 A 175 43 0 0 1 165 635 Z" fill="#E4E8D6" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 165 635 A 175 43 0 0 1 515 635" fill="none" stroke="#979B89" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 340 205 L 340 635" fill="none" stroke="#A26D3D" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="10 7"/>
+<path d="M 340 635 L 515 635" fill="none" stroke="#A26D3D" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 340 613 H 362 V 635" fill="none" stroke="#A26D3D" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="312" y="420" font-family="Cambria, Georgia, serif" font-size="37" text-anchor="end" dominant-baseline="central" fill="#A26D3D"><tspan font-style="italic">h</tspan></text>
+<text x="427.5" y="608" font-family="Cambria, Georgia, serif" font-size="37" text-anchor="middle" dominant-baseline="central" fill="#A26D3D"><tspan font-style="italic">r</tspan></text>
+<text x="470.5" y="420" font-family="Cambria, Georgia, serif" font-size="37" text-anchor="middle" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">l</tspan></text>
+<text x="790" y="185" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Flatarmál grunnflatar</text>
+<text x="790" y="233" font-family="Cambria, Georgia, serif" font-size="44" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">F</tspan> = π<tspan font-style="italic">r</tspan>²</text>
+<text x="790" y="310" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Rúmmál</text>
+<text x="790" y="367" font-family="Cambria, Georgia, serif" font-size="44" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">R</tspan> = </text>
+<text x="903.96" y="346" font-family="Cambria, Georgia, serif" font-size="37.4" text-anchor="middle" dominant-baseline="central" fill="#353A32">1</text>
+<text x="903.96" y="392" font-family="Cambria, Georgia, serif" font-size="37.4" text-anchor="middle" dominant-baseline="central" fill="#353A32">3</text>
+<path d="M 881.52 369 L 926.4000000000001 369" fill="none" stroke="#353A32" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="940.4000000000001" y="367" font-family="Cambria, Georgia, serif" font-size="44" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">h</tspan>π<tspan font-style="italic">r</tspan>²</text>
+<text x="790" y="470" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Möttull</text>
+<text x="790" y="518" font-family="Cambria, Georgia, serif" font-size="44" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">M</tspan> = π<tspan font-style="italic">r</tspan><tspan font-style="italic">l</tspan></text>
+<text x="790" y="590" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Yfirborðsflatarmál</text>
+<text x="790" y="638" font-family="Cambria, Georgia, serif" font-size="43" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">Y</tspan><tspan font-style="italic">F</tspan> = π<tspan font-style="italic">r</tspan>² + π<tspan font-style="italic">r</tspan><tspan font-style="italic">l</tspan></text>
+<path d="M 65 744 L 1370 744" fill="none" stroke="#E4E5DD" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="65" y="784" font-family="Cambria, Georgia, serif" font-size="27" text-anchor="start" dominant-baseline="central" fill="#73766A">h er hornrétt hæð og l er skáhæð eftir möttli keilunnar.</text>
+<text x="65" y="825" font-family="Cambria, Georgia, serif" font-size="27" text-anchor="start" dominant-baseline="central" fill="#73766A">Notaðu h í rúmmálsformúlunni og l í formúlunni fyrir möttulinn.</text></svg>

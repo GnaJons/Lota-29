@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="880" viewBox="0 0 1440 880" role="img"><title>Teningur</title><rect width="100%" height="100%" fill="#fff"/><text x="64" y="40" font-family="Cambria, Georgia, serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#73766A">1. TÍMI · FERSTRENDINGAR</text>
+<text x="64" y="99" font-family="Cambria, Georgia, serif" font-size="47" text-anchor="start" dominant-baseline="central" fill="#353A32">Teningur</text>
+<path d="M 135 615 L 425 615 L 425 325 L 135 325 Z" fill="#E4E8D6" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 425 615 L 585 495 L 585 205 L 425 325 Z" fill="#D0D8BB" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 135 325 L 425 325 L 585 205 L 295 205 Z" fill="#F4ECD7" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 135 615 L 295 495" fill="none" stroke="#979B89" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 295 495 L 585 495" fill="none" stroke="#979B89" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 295 495 L 295 205" fill="none" stroke="#979B89" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 135 624 L 135 673" fill="none" stroke="#979B89" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 425 624 L 425 673" fill="none" stroke="#979B89" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 135 663 L 425 663" fill="none" stroke="#73766A" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 425 663 L 415 666.6 L 415 659.4 Z" fill="#73766A" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 135 663 L 145 666.6 L 145 659.4 Z" fill="#73766A" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="280" y="693" font-family="Cambria, Georgia, serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">h</tspan></text>
+<path d="M 429.8 621.4 L 457.4 658.2" fill="none" stroke="#979B89" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 589.8 501.4 L 617.4 538.2" fill="none" stroke="#979B89" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 452 651 L 612 531" fill="none" stroke="#73766A" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 612 531 L 606.16 539.88 L 601.84 534.12 Z" fill="#73766A" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 452 651 L 462.16 647.88 L 457.84 642.12 Z" fill="#73766A" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="550.6" y="615.8" font-family="Cambria, Georgia, serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#353A32" transform="rotate(-36.86989764584402 550.6 615.8)"><tspan font-style="italic">h</tspan></text>
+<path d="M 126 325 L 83 325" fill="none" stroke="#979B89" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 126 615 L 83 615" fill="none" stroke="#979B89" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 93 325 L 93 615" fill="none" stroke="#73766A" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 93 615 L 89.4 605 L 96.6 605 Z" fill="#73766A" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 93 325 L 89.4 335 L 96.6 335 Z" fill="#73766A" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="61" y="470" font-family="Cambria, Georgia, serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#353A32" transform="rotate(-90 61 470)"><tspan font-style="italic">h</tspan></text>
+<text x="790" y="230" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Einn ferningsflötur</text>
+<text x="790" y="278" font-family="Cambria, Georgia, serif" font-size="44" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">F</tspan> = <tspan font-style="italic">h</tspan>²</text>
+<text x="790" y="380" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Rúmmál</text>
+<text x="790" y="428" font-family="Cambria, Georgia, serif" font-size="44" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">R</tspan> = <tspan font-style="italic">l</tspan><tspan font-style="italic">b</tspan><tspan font-style="italic">h</tspan></text>
+<text x="790" y="530" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Yfirborðsflatarmál</text>
+<text x="790" y="578" font-family="Cambria, Georgia, serif" font-size="41" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">Y</tspan><tspan font-style="italic">F</tspan> = 2<tspan font-style="italic">l</tspan><tspan font-style="italic">b</tspan> + 2<tspan font-style="italic">l</tspan><tspan font-style="italic">h</tspan> + 2<tspan font-style="italic">b</tspan><tspan font-style="italic">h</tspan></text>
+<path d="M 65 744 L 1370 744" fill="none" stroke="#E4E5DD" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="65" y="784" font-family="Cambria, Georgia, serif" font-size="27" text-anchor="start" dominant-baseline="central" fill="#73766A">Teningur er réttstrendingur með jafnlangar brúnir: l = b = h.</text>
+<text x="65" y="825" font-family="Cambria, Georgia, serif" font-size="27" text-anchor="start" dominant-baseline="central" fill="#73766A">Notaðu sömu lengd fyrir l, b og h í formúlum réttstrendingsins.</text></svg>

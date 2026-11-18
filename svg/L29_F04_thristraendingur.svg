@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="880" viewBox="0 0 1440 880" role="img"><title>Réttur þrístrendingur</title><rect width="100%" height="100%" fill="#fff"/><text x="64" y="40" font-family="Cambria, Georgia, serif" font-size="22" text-anchor="start" dominant-baseline="central" fill="#73766A">2. TÍMI · STRENDINGAR</text>
+<text x="64" y="99" font-family="Cambria, Georgia, serif" font-size="47" text-anchor="start" dominant-baseline="central" fill="#353A32">Réttur þrístrendingur</text>
+<path d="M 95 585 L 385 585 L 240 330 Z" fill="#F4ECD7" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 385 585 L 635 445 L 490 190 L 240 330 Z" fill="#D0D8BB" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 95 585 L 345 445" fill="none" stroke="#979B89" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 345 445 L 635 445" fill="none" stroke="#979B89" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 345 445 L 490 190" fill="none" stroke="#979B89" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 388.9088269514547 591.9800481275978 L 411.38458192231957 632.1153248612848" fill="none" stroke="#979B89" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 638.9088269514548 451.98004812759774 L 661.3845819223195 492.1153248612849" fill="none" stroke="#979B89" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 406.98715160193296 624.2627707177373 L 656.987151601933 484.2627707177374" fill="none" stroke="#73766A" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 656.987151601933 484.2627707177374 L 650.0210635705904 492.2898260644748 L 646.5031193142812 486.0077827496368 Z" fill="#73766A" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 406.98715160193296 624.2627707177373 L 417.47118388958484 622.5177586858379 L 413.95323963327553 616.235715371 Z" fill="#73766A" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="547.1338560388201" y="581.3104572121787" font-family="Cambria, Georgia, serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#353A32" transform="rotate(-29.248826336546976 547.1338560388201 581.3104572121787)"><tspan font-style="italic">h</tspan></text>
+<text x="245" y="490" font-family="Cambria, Georgia, serif" font-size="43" text-anchor="middle" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">G</tspan></text>
+<text x="790" y="230" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Rúmmál</text>
+<text x="790" y="278" font-family="Cambria, Georgia, serif" font-size="44" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">R</tspan> = <tspan font-style="italic">G</tspan><tspan font-style="italic">h</tspan></text>
+<text x="790" y="380" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Möttull</text>
+<text x="790" y="428" font-family="Cambria, Georgia, serif" font-size="44" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">M</tspan> = <tspan font-style="italic">U</tspan><tspan font-style="italic">h</tspan></text>
+<text x="790" y="530" font-family="Cambria, Georgia, serif" font-size="25" text-anchor="start" dominant-baseline="central" fill="#73766A">Yfirborðsflatarmál</text>
+<text x="790" y="578" font-family="Cambria, Georgia, serif" font-size="44" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">Y</tspan><tspan font-style="italic">F</tspan> = <tspan font-style="italic">U</tspan><tspan font-style="italic">h</tspan> + 2<tspan font-style="italic">G</tspan></text>
+<path d="M 65 744 L 1370 744" fill="none" stroke="#E4E5DD" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="65" y="784" font-family="Cambria, Georgia, serif" font-size="27" text-anchor="start" dominant-baseline="central" fill="#73766A">G er flatarmál þríhyrnds grunnflatar. h er fjarlægðin milli grunnflatanna.</text>
+<text x="65" y="825" font-family="Cambria, Georgia, serif" font-size="27" text-anchor="start" dominant-baseline="central" fill="#73766A">U er ummál þríhyrningsins, þ.e. summa allra þriggja hliðarlengda.</text></svg>
