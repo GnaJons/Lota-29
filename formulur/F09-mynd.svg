@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="143.000 198.493 490.881 503.507" role="img" width="490.881" height="503.507"><g><path d="M 155 535 L 325 690 L 495 535 Z" fill="#D0D8BB" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 155 255 V 535 A 170 38 0 0 0 495 535 V 255 Z" fill="#E4E8D6" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="325" cy="255" rx="170" ry="38" fill="#F4ECD7" stroke="#353A32" stroke-width="2.7" />
+<path d="M 155 535 A 170 38 0 0 1 495 535" fill="none" stroke="#979B89" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7" />
+<path d="M 325 255 L 495 255" fill="none" stroke="#A26D3D" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="325" cy="255" rx="4" ry="4" fill="#A26D3D" stroke="none" stroke-width="2.7" />
+<text x="410" y="231" font-family="Cambria, Georgia, serif" font-size="35" text-anchor="middle" dominant-baseline="central" fill="#A26D3D"><tspan font-style="italic">r</tspan></text>
+<path d="M 504 255 L 570 255" fill="none" stroke="#979B89" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 504 535 L 570 535" fill="none" stroke="#979B89" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 560 255 L 560 535" fill="none" stroke="#73766A" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 560 535 L 556.4 525 L 563.6 525 Z" fill="#73766A" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 560 255 L 556.4 265 L 563.6 265 Z" fill="#73766A" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" />
+<text x="590" y="395" font-family="Cambria, Georgia, serif" font-size="34" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">h</tspan>₁</text>
+<path d="M 504 535 L 570 535" fill="none" stroke="#979B89" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 504 690 L 570 690" fill="none" stroke="#979B89" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 560 535 L 560 690" fill="none" stroke="#73766A" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 560 690 L 556.4 680 L 563.6 680 Z" fill="#73766A" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 560 535 L 556.4 545 L 563.6 545 Z" fill="#73766A" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" />
+<text x="590" y="612.5" font-family="Cambria, Georgia, serif" font-size="34" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">h</tspan>₂</text>
+<text x="205" y="636" font-family="Cambria, Georgia, serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">s</tspan></text>
+</g><title>Sívalningur með keilubotni — mynd</title></svg>

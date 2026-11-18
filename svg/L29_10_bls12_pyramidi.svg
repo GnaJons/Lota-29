@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="790" height="760" viewBox="0 0 790 760" role="img"><title>Pýramídi með grunnbrún og hornréttri hæð h</title><rect width="100%" height="100%" fill="#fff"/><path d="M 85 540 L 500 630 L 397.5 65 Z" fill="#EAF0F3" stroke="#303C43" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 500 630 L 710 420 L 397.5 65 Z" fill="#DAE6E4" stroke="#303C43" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 85 540 L 295 330" fill="none" stroke="#7E8B92" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 295 330 L 710 420" fill="none" stroke="#7E8B92" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 295 330 L 397.5 65" fill="none" stroke="#7E8B92" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 397.5 65 L 397.5 480" fill="none" stroke="#326E8D" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="10 7"/>
+<path d="M 397.5 458 H 419.5 V 480" fill="none" stroke="#326E8D" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="397.5" cy="480" rx="3" ry="3" fill="#326E8D" stroke="none" stroke-width="2.7"/>
+<text x="366.5" y="300" font-family="Cambria, Georgia, serif" font-size="38" text-anchor="end" dominant-baseline="central" fill="#326E8D"><tspan font-style="italic">h</tspan></text>
+<text x="285" y="636" font-family="Cambria, Georgia, serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#303C43" transform="rotate(12.236111509416334 285 636)">grunnbrún</text></svg>

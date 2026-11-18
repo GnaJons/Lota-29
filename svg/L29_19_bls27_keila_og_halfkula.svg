@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="930" viewBox="0 0 820 930" role="img"><title>Keila ofan á hálfkúlu: h = 12 cm, s = 13 cm og sameiginlegur geisli r</title><rect width="100%" height="100%" fill="#fff"/><path d="M 130 629 A 235 235 0 0 0 600 629 Z" fill="#DAE6E4" stroke="#303C43" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 130 629 L 365 65 L 600 629 A 235 50 0 0 1 130 629 Z" fill="#EAF0F3" stroke="#303C43" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 130 629 A 235 50 0 0 1 600 629" fill="none" stroke="#7E8B92" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 365 65 L 365 629" fill="none" stroke="#326E8D" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="10 7"/>
+<path d="M 365 629 L 600 629" fill="none" stroke="#326E8D" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 365 606 H 388 V 629" fill="none" stroke="#326E8D" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 121 65 L 55 65" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 121 629 L 55 629" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 65 65 L 65 629" fill="none" stroke="#66747C" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 65 629 L 61.4 619 L 68.6 619 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 65 65 L 61.4 75 L 68.6 75 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="33" y="347" font-family="Cambria, Georgia, serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#303C43" transform="rotate(-90 33 347)"><tspan font-style="italic">h</tspan> = 12 cm</text>
+<text x="555" y="300" font-family="Cambria, Georgia, serif" font-size="32" text-anchor="start" dominant-baseline="central" fill="#303C43"><tspan font-style="italic">s</tspan> = 13 cm</text>
+<text x="482.5" y="599" font-family="Cambria, Georgia, serif" font-size="38" text-anchor="middle" dominant-baseline="central" fill="#326E8D"><tspan font-style="italic">r</tspan></text></svg>

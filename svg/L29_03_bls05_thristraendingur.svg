@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img"><title>Þrístrendingur: b = 6 m, g = 4 m og h = 9 m</title><rect width="100%" height="100%" fill="#fff"/><path d="M 150 525 L 565 525 L 357.5 248.3 Z" fill="#EAF0F3" stroke="#303C43" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 565 525 L 1000 330 L 792.5 53.3 L 357.5 248.3 Z" fill="#DAE6E4" stroke="#303C43" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 150 525 L 585 330" fill="none" stroke="#7E8B92" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 585 330 L 1000 330" fill="none" stroke="#7E8B92" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 585 330 L 792.5 53.3" fill="none" stroke="#7E8B92" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 357.5 248.3 L 357.5 525" fill="none" stroke="#326E8D" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="10 7"/>
+<path d="M 357.5 507 H 375.5 V 525" fill="none" stroke="#326E8D" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 150 534 L 150 590" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 565 534 L 565 590" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 150 580 L 565 580" fill="none" stroke="#66747C" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 565 580 L 555 583.6 L 555 576.4 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 150 580 L 160 583.6 L 160 576.4 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="357.5" y="610" font-family="Cambria, Georgia, serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#303C43"><tspan font-style="italic">b</tspan> = 6 m</text>
+<path d="M 141 248.3 L 80 248.3" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 141 525 L 80 525" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 90 248.3 L 90 525" fill="none" stroke="#66747C" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 90 525 L 86.4 515 L 93.6 515 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 90 248.3 L 86.4 258.3 L 93.6 258.3 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="58" y="386.65" font-family="Cambria, Georgia, serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#303C43" transform="rotate(-90 58 386.65)"><tspan font-style="italic">g</tspan> = 4 m</text>
+<path d="M 100 248.3 L 348 248.3" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 568.2724472327433 532.3000745961197 L 594.8610809987824 591.6131806895914" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1003.2724472327433 337.3000745961196 L 1029.8610809987824 396.6131806895915" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 591.1795778619462 583.4005967689569 L 1026.1795778619462 388.4005967689569" fill="none" stroke="#66747C" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1026.1795778619462 388.4005967689569 L 1018.5270858715312 395.7761893781398 L 1015.5818833620622 389.20612224163216 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 591.1795778619462 583.4005967689569 L 601.7772723618302 582.5950712962817 L 598.8320698523612 576.025004159774 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="821.3603108888263" y="514.1883858289204" font-family="Cambria, Georgia, serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#303C43" transform="rotate(-24.145541960421657 821.3603108888263 514.1883858289204)"><tspan font-style="italic">h</tspan> = 9 m</text></svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="650" viewBox="0 0 1060 650" role="img"><title>Ferstrendingur með lengd a, breidd b og hæð h</title><rect width="100%" height="100%" fill="#fff"/><path d="M 150 490 L 780 490 L 780 180 L 150 180 Z" fill="#EAF0F3" stroke="#303C43" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 780 490 L 935 370 L 935 60 L 780 180 Z" fill="#DAE6E4" stroke="#303C43" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 150 180 L 780 180 L 935 60 L 305 60 Z" fill="#F6F8F9" stroke="#303C43" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 150 490 L 305 370" fill="none" stroke="#7E8B92" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 305 370 L 935 370" fill="none" stroke="#7E8B92" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 305 370 L 305 60" fill="none" stroke="#7E8B92" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 150 499 L 150 560" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 780 499 L 780 560" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 150 550 L 780 550" fill="none" stroke="#66747C" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 780 550 L 770 553.6 L 770 546.4 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 150 550 L 160 553.6 L 160 546.4 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="465" y="580" font-family="Cambria, Georgia, serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#303C43"><tspan font-style="italic">a</tspan></text>
+<path d="M 141 180 L 75 180" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 141 490 L 75 490" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 85 180 L 85 490" fill="none" stroke="#66747C" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 85 490 L 81.4 480 L 88.6 480 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 85 180 L 81.4 190 L 88.6 190 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="53" y="335" font-family="Cambria, Georgia, serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#303C43" transform="rotate(-90 53 335)"><tspan font-style="italic">h</tspan></text>
+<path d="M 784.8973855439314 496.3257896609113 L 823.4642967023906 546.1413832405879" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 939.8973855439314 376.3257896609113 L 978.4642967023906 426.14138324058786" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 817.9547379654679 539.0248698720626 L 972.9547379654679 419.02486987206265" fill="none" stroke="#66747C" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 972.9547379654679 419.02486987206265 L 967.2513243840979 427.99320714938693 L 962.8436773945596 422.2999964545667 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 817.9547379654679 539.0248698720626 L 828.0657985363762 535.7497432895585 L 823.6581515468379 530.0565325947383 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="914.4321069482017" y="503.5373048080939" font-family="Cambria, Georgia, serif" font-size="34" text-anchor="middle" dominant-baseline="central" fill="#303C43" transform="rotate(-37.74680538727467 914.4321069482017 503.5373048080939)"><tspan font-style="italic">b</tspan></text></svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img"><title>Hliðarsnið sundlaugar með hallandi botni</title><rect width="100%" height="100%" fill="#fff"/><path d="M 140 160 L 1040 160 L 1040 523.5999999999999 L 770 523.5999999999999 L 320 296.35 L 140 296.35 Z" fill="#EAF0F3" stroke="#303C43" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 320 160 L 320 296.35" fill="none" stroke="#7E8B92" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 770 160 L 770 523.5999999999999" fill="none" stroke="#7E8B92" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<path d="M 140 151 L 140 83" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 320 151 L 320 83" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 140 93 L 320 93" fill="none" stroke="#66747C" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 320 93 L 310 96.6 L 310 89.4 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 140 93 L 150 96.6 L 150 89.4 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="230" y="63" font-family="Cambria, Georgia, serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#303C43">4 m</text>
+<path d="M 320 151 L 320 83" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 770 151 L 770 83" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 320 93 L 770 93" fill="none" stroke="#66747C" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 770 93 L 760 96.6 L 760 89.4 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 320 93 L 330 96.6 L 330 89.4 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="545" y="63" font-family="Cambria, Georgia, serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#303C43">10 m</text>
+<path d="M 770 151 L 770 83" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1040 151 L 1040 83" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 770 93 L 1040 93" fill="none" stroke="#66747C" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1040 93 L 1030 96.6 L 1030 89.4 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 770 93 L 780 96.6 L 780 89.4 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="905" y="63" font-family="Cambria, Georgia, serif" font-size="32" text-anchor="middle" dominant-baseline="central" fill="#303C43">6 m</text>
+<path d="M 131 160 L 74 160" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 131 296.35 L 74 296.35" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 84 160 L 84 296.35" fill="none" stroke="#66747C" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 84 296.35 L 80.4 286.35 L 87.6 286.35 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 84 160 L 80.4 170 L 87.6 170 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="52" y="228.175" font-family="Cambria, Georgia, serif" font-size="30" text-anchor="middle" dominant-baseline="central" fill="#303C43" transform="rotate(-90 52 228.175)">0,9 m</text>
+<path d="M 1049 160 L 1105 160" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1049 523.5999999999999 L 1105 523.5999999999999" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1095 160 L 1095 523.5999999999999" fill="none" stroke="#66747C" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1095 523.5999999999999 L 1091.4 513.5999999999999 L 1098.6 513.5999999999999 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 1095 160 L 1091.4 170 L 1098.6 170 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1127" y="341.79999999999995" font-family="Cambria, Georgia, serif" font-size="30" text-anchor="middle" dominant-baseline="central" fill="#303C43" transform="rotate(-90 1127 341.79999999999995)">2,4 m</text></svg>

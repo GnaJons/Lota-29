@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="138.000 193.000 508.100 509.000" role="img" width="508.1" height="509"><g><path d="M 150 385 V 650 A 180 40 0 0 0 510 650 V 385 Z" fill="#E4E8D6" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 150 385 A 180 180 0 0 1 510 385 A 180 40 0 0 1 150 385 Z" fill="#D0D8BB" stroke="#353A32" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 150 385 A 180 40 0 0 1 510 385" fill="none" stroke="#979B89" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7" />
+<path d="M 150 650 A 180 40 0 0 1 510 650" fill="none" stroke="#979B89" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7" />
+<path d="M 330 385 L 510 385" fill="none" stroke="#A26D3D" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="330" cy="385" rx="4" ry="4" fill="#A26D3D" stroke="none" stroke-width="2.7" />
+<text x="420" y="360" font-family="Cambria, Georgia, serif" font-size="36" text-anchor="middle" dominant-baseline="central" fill="#A26D3D"><tspan font-style="italic">r</tspan></text>
+<path d="M 519 385 L 595 385" fill="none" stroke="#979B89" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 519 650 L 595 650" fill="none" stroke="#979B89" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 585 385 L 585 650" fill="none" stroke="#73766A" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 585 650 L 581.4 640 L 588.6 640 Z" fill="#73766A" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 585 385 L 581.4 395 L 588.6 395 Z" fill="#73766A" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round" />
+<text x="615" y="517.5" font-family="Cambria, Georgia, serif" font-size="36" text-anchor="start" dominant-baseline="central" fill="#353A32"><tspan font-style="italic">h</tspan></text>
+</g><title>Sívalningur með hálfkúlu ofan á — mynd</title></svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="560" viewBox="0 0 1080 560" role="img"><title>Möttull sívalnings: M = 2πrh, lengd U = 2πr = πþ</title><rect width="100%" height="100%" fill="#fff"/><path d="M 75 70 L 890 70 L 890 365 L 75 365 Z" fill="#EAF0F3" stroke="#303C43" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="482.5" y="217" font-family="Cambria, Georgia, serif" font-size="42" text-anchor="middle" dominant-baseline="central" fill="#303C43"><tspan font-style="italic">M</tspan> = 2π<tspan font-style="italic">r</tspan><tspan font-style="italic">h</tspan></text>
+<path d="M 75 374 L 75 455" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 890 374 L 890 455" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 75 445 L 890 445" fill="none" stroke="#66747C" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 890 445 L 880 448.6 L 880 441.4 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 75 445 L 85 448.6 L 85 441.4 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="482.5" y="475" font-family="Cambria, Georgia, serif" font-size="38" text-anchor="middle" dominant-baseline="central" fill="#303C43"><tspan font-style="italic">U</tspan> = 2π<tspan font-style="italic">r</tspan> = πþ</text>
+<path d="M 899 70 L 967 70" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 899 365 L 967 365" fill="none" stroke="#7E8B92" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 957 70 L 957 365" fill="none" stroke="#66747C" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 957 365 L 953.4 355 L 960.6 355 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 957 70 L 953.4 80 L 960.6 80 Z" fill="#66747C" stroke="none" stroke-width="2.7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="987" y="217.5" font-family="Cambria, Georgia, serif" font-size="38" text-anchor="start" dominant-baseline="central" fill="#303C43"><tspan font-style="italic">h</tspan></text></svg>
