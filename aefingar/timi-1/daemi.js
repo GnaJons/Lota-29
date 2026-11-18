@@ -38,7 +38,7 @@ function netDrawing(edge){
   const x=153, y=58, s=47;
   const outline='M0 1H1V0H2V1H4V2H2V3H1V2H0Z';
   return drawing('<g transform="translate('+x+' '+y+') scale('+s+')"><path class="net-outline" d="'+outline+'"/><path class="fold" d="M1 1V2 M2 1V2 M3 1V2 M1 1H2 M1 2H2"/></g><path class="dimension" d="M200 53V39 M247 53V39 M200 44H247"/>'+label(223.5,32,formatNumber(edge)+' cm'),
-    'Net úr sex jafnstórum ferningum. Fjórir eru í röð. Við annan ferninginn tengist einn ferningur að ofan og einn að neðan. Brún hvers fernings er '+formatNumber(edge)+' cm.');
+    'Snið úr sex jafnstórum ferningum. Fjórir eru í röð. Við annan ferninginn tengist einn ferningur að ofan og einn að neðan. Brún hvers fernings er '+formatNumber(edge)+' cm.');
 }
 function buildLesson(round){
   const d=rounds[round];
@@ -61,10 +61,10 @@ function buildLesson(round){
     const raw=surface(dims), divisor=requestedUnit==='cm²'?1:unit==='mm'?1e6:1e4;
     const result=raw/divisor;
     const formula='2 · ('+l+' · '+b+' + '+l+' · '+h+' + '+b+' · '+h+')';
-    return numeric(title,question+' Málin eru '+sizeText(dims)+' '+unit+'.','Y',requestedUnit,boxDrawing(dims,unit,'green'),result,
+    return numeric(title,question+' Málin eru '+sizeText(dims)+' '+unit+'.','YF',requestedUnit,boxDrawing(dims,unit,'green'),result,
       ['Hver flötur á sér jafnstóran mótflöt. Finndu flatarmál botns, framhliðar og hliðarflatar.',
-       'Y = '+formula+'.'+(divisor>1?' Í einum fermetra eru '+formatNumber(divisor)+' '+unit+'².':'')],
-      'Y = '+formula+' = '+formatNumber(raw)+' '+unit+'²'+(divisor>1?' = '+formatNumber(result)+' m².':'.'),
+       'YF = '+formula+'.'+(divisor>1?' Í einum fermetra eru '+formatNumber(divisor)+' '+unit+'².':'')],
+      'YF = '+formula+' = '+formatNumber(raw)+' '+unit+'²'+(divisor>1?' = '+formatNumber(result)+' m².':'.'),
       [[result/2,'Þetta er flatarmál þriggja hliðarflata samanlagt. Bættu við mótflötunum þremur.'],
        ...(divisor>1?[[raw,'Flatarmálið er rétt í '+unit+'². Breyttu því í m².']]:[])]);
   }
@@ -74,7 +74,7 @@ function buildLesson(round){
     board:boxDrawing(d.faces[0],'cm','green'),
     options:[a+' · '+b+' · '+c, '2 · ('+a+' · '+b+' + '+a+' · '+c+' + '+b+' · '+c+')',a+' · '+b+' + '+a+' · '+c+' + '+b+' · '+c],
     answer:1, hints:['Finndu fletina sem eru jafnstórir og raðaðu þeim í pör.','Botn og lok mynda eitt par. Samtals eru pörin þrjú.'],
-    explain:'Á móti hverjum fleti er jafnstór flötur. Því er Y = 2 · (l · b + l · h + b · h).',
+    explain:'Á móti hverjum fleti er jafnstór flötur. Því er YF = 2 · (l · b + l · h + b · h).',
     wrong:['Þessi margfeldisreikningur gefur rúmmál. Finndu flatarmál hvers flatar.','','Hér eru þrír fletir. Hvernig telurðu mótfletina líka?'] };
   const cubeV=d.edge**3, cubeY=6*d.edge**2;
   const poolVol=volume(d.pool), dose=poolVol/30;
@@ -93,12 +93,12 @@ function buildLesson(round){
     item('29.4','Krossviður í kistil',[area(d.chest,'mm','m²','Hve mikinn krossvið þarf?','Smíða á kistil með loki. Reiknaðu flatarmál krossviðarins í m². Hunsaðu þykkt, samskeyti og afskurð.')]),
     item('29.5','Pappi utan um hátalara',[area(d.speaker,'cm','m²','Hve mikinn pappa þarf í hvorn kassa?','Pétur kaupir tvo hátalara í jafnstórum, lokuðum kössum. Reiknaðu minnsta flatarmál pappa í einn kassa í m². Hunsaðu skörun, þykkt og afskurð.')]),
     item('29.6','Úr neti í tening',[
-      numeric('Hvað rúmar teningurinn?','Netið er brotið saman í lokaðan kassa. Brún hvers fernings er '+formatNumber(d.edge)+' cm. Hvert er rúmmál kassans?',
+      numeric('Hvað rúmar teningurinn?','Sniðið er brotið saman í lokaðan kassa. Brún hvers fernings er '+formatNumber(d.edge)+' cm. Hvert er rúmmál kassans?',
         'R','cm³',cube,cubeV,['Lengd, breidd og hæð teningsins eru jafnar.','R = '+product([d.edge,d.edge,d.edge])+'.'],
         'R = '+formatNumber(d.edge)+'³ = '+formatNumber(cubeV)+' cm³.'),
-      numeric('Hvert er flatarmál netsins?','Reiknaðu samanlagt flatarmál pappans í teningnum. Hver brún er '+formatNumber(d.edge)+' cm.','Y','cm²',cube,cubeY,
-        ['Hve margir jafnstórir ferningar eru í netinu?','Hver ferningur er '+formatNumber(d.edge)+' cm á kant. Margfaldaðu flatarmál eins fernings með sex.'],
-        'Y = 6 · '+formatNumber(d.edge)+'² = '+formatNumber(cubeY)+' cm².',[[d.edge**2,'Þú hefur fundið flatarmál eins fernings. Teldu alla fletina í netinu.']])]),
+      numeric('Hvert er flatarmál sniðsins?','Reiknaðu samanlagt flatarmál pappans í teningnum. Hver brún er '+formatNumber(d.edge)+' cm.','YF','cm²',cube,cubeY,
+        ['Hve margir jafnstórir ferningar eru í sniðinu?','Hver ferningur er '+formatNumber(d.edge)+' cm á kant. Margfaldaðu flatarmál eins fernings með sex.'],
+        'YF = 6 · '+formatNumber(d.edge)+'² = '+formatNumber(cubeY)+' cm².',[[d.edge**2,'Þú hefur fundið flatarmál eins fernings. Teldu alla fletina í sniðinu.']])]),
     item('29.7','Sundlaugin',[numeric('Hve marga lítra þarf á dag?','Sundlaugin er '+formatNumber(d.pool[0])+' m löng, '+formatNumber(d.pool[1])+' m breið og alls staðar '+formatNumber(d.pool[2])+' m djúp. Hún er full. Í dæminu þarf 1 ℓ af klórlausn á dag fyrir hverja 30 m³ af vatni.',
       'Klórlausn','ℓ',boxDrawing(d.pool,'m'),dose,['Finndu fyrst rúmmál vatnsins í m³.','Hve oft ganga 30 m³ upp í rúmmál vatnsins?'],
       'Laugin rúmar '+product(d.pool)+' = '+formatNumber(poolVol)+' m³. Það þarf '+formatNumber(poolVol)+' ÷ 30 = '+formatNumber(dose)+' ℓ á dag.',
@@ -110,7 +110,7 @@ function buildLesson(round){
       numeric('Hve margir litlir pakkar rúma sama magn?','Hvert mál litla pakkans er helmingur af samsvarandi máli þess stóra. Myndin sýnir litla pakkann. Hve marga slíka þarf til að rúma jafn mikið þvottaefni og einn stór?',
         'Fjöldi','pakkar',packSmall,8,['Hve margir litlir pakkar komast eftir lengd stóra pakkans? En eftir breidd og hæð?','Í einu lagi komast 2 · 2 litlir pakkar. Hve mörg lög komast fyrir?'],
         'Rúmmál litla pakkans er '+formatNumber(volume(small))+' cm³. Það þarf 2 · 2 · 2 = 8 litla pakka.'),
-      numeric('Í hve marga litla pakka dugar pappinn?','Hvert mál litla pakkans er helmingi styttra en samsvarandi mál þess stóra. Hve marga litla, lokaða pakka má gera úr jafn miklum pappa og fer í einn stóran? Hunsaðu skörun og afskurð.',
+      numeric('Í hve marga litla pakka dugar pappinn?','Hvert mál litla pakkans er helmingur af samsvarandi máli þess stóra. Hve marga litla, lokaða pakka má gera úr jafn miklum pappa og fer í einn stóran? Hunsaðu skörun og afskurð.',
         'Fjöldi','pakkar',packSmall,4,['Berðu saman botnflöt stóra pakkans og botnflöt þess litla.','Á hverjum fleti helmingast báðar hliðar. Sama hlutfall gildir um allt yfirborðið.'],
         'Yfirborðsflatarmálið fer úr '+formatNumber(packA)+' cm² í '+formatNumber(packA/4)+' cm². Pappinn dugar í 4 litla pakka.'),
       numeric('Hvað kostar pappinn í einn lítinn pakka?','Pappinn í stóra pakkann kostar '+d.price+' kr. Verð á fermetra er það sama og litli pakkinn þarf fjórðung af pappanum.',

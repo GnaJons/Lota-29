@@ -38,7 +38,7 @@ function prism(points,dx,dy,theme=''){
 }
 function givenDrawing([G,h]){
   return drawing(prism([[100,220],[280,220],[190,100]],125,-55)+lab(190,195,'G = '+n(G)+' cm²')+lab(385,199,'h = '+n(h)+' cm')+dimension(290,237,415,182),
-    'Strendingur með grunnflöt '+n(G)+' fersentimetra og hæð '+n(h)+' sentimetra. Litaði þríhyrningurinn er grunnflöturinn.');
+    'Strendingur með grunnflatarmálið '+n(G)+' fersentimetra og hæð '+n(h)+' sentimetra. Litaði þríhyrningurinn er grunnflöturinn.');
 }
 function triangleDrawing([b,g,h],unit='m',right=false){
   const a=[85,220],v=[265,220],c=right?[85,75]:[145,75],dx=140,dy=-45;
@@ -119,7 +119,7 @@ function buildLesson(round){
         ['Rúmmál strendings er flatarmál grunnflatar margfaldað með hæð strendingsins.',formula('R = G · h')],formula('R = '+n(G0)+' · '+n(h0)+' = '+n(G0*h0)+' cm³.'))
     ]),
     group('29.10','Þríhyrningur sem grunnflötur',[
-      numeric('Finndu grunnflötinn','Litaði þríhyrningurinn er grunnflötur strendingsins. Hvert er flatarmál hans?','G','m²',triangleDrawing(d.tri),G,
+      numeric('Finndu grunnflatarmálið','Litaði þríhyrningurinn er grunnflötur strendingsins. Hvert er flatarmál hans?','G','m²',triangleDrawing(d.tri),G,
         ['Notaðu grunnlínu þríhyrningsins og hornrétta hæð hans.',formula('G = ')+frac('grunnlína · hæð þríhyrnings','2')],formula('G = ')+frac(n(b)+' · '+n(g),'2')+formula(' = '+n(G)+' m².'),[[b*g,'Flatarmál þríhyrnings er helmingur af margfeldi grunnlínu og hæðar.']]),
       numeric('Finndu rúmmálið','Flatarmál grunnflatarins er '+n(G)+' m². Hvert er rúmmál strendingsins?','R','m³',triangleDrawing(d.tri),G*h,
         ['Hæð strendingsins er fjarlægðin milli þríhyrndu grunnflatanna.',formula('R = G · h')],formula('R = '+n(G)+' · '+n(h)+' = '+n(G*h)+' m³.'))
@@ -128,17 +128,17 @@ function buildLesson(round){
       {title:'Hæð þríhyrningsins',question:'Neðsti þríhyrningurinn er grunnflötur strendingsins. Hvaða lengd er hornrétt hæð þess þríhyrnings?',board:uprightDrawing(d.upright),options:[n(uh)+' dm',n(ug)+' dm',n(ub)+' dm'],answer:1,
         hints:['Leitaðu að strikinu sem liggur í þríhyrningnum og myndar rétt horn við grunnlínu hans.','Lóðréttu brúnirnar sýna hæð strendingsins. Þær eru ekki hæð þríhyrningsins.'],
         explain:'Hæð þríhyrningsins er '+n(ug)+' dm. Hæð strendingsins er '+n(uh)+' dm.',wrong:['Þetta er hæð strendingsins. Finndu hornréttu hæðina í þríhyrningnum.','','Þetta er grunnlína þríhyrningsins. Hæðin stendur hornrétt á hana.']},
-      numeric('Rétthyrndur grunnflötur','Grunnflöturinn er rétthyrndur þríhyrningur. Gefnar eru skammhliðar hans og hæð strendingsins. Hvert er rúmmálið?','R','cm³',uprightDrawing(d.right,true),ra*rb*rh/2,
+      numeric('Rétthyrndur þríhyrningur','Grunnflöturinn er rétthyrndur þríhyrningur. Gefnar eru skammhliðar hans og hæð strendingsins. Hvert er rúmmálið?','R','cm³',uprightDrawing(d.right,true),ra*rb*rh/2,
         ['Skammhliðar rétthyrnds þríhyrnings geta verið grunnlína og hæð hans.',formula('G = ')+frac('skammhlið · skammhlið','2')+formula(' og R = G · h.')],formula('G = ')+frac(n(ra)+' · '+n(rb),'2')+formula(' = '+n(ra*rb/2)+' cm². R = '+n(ra*rb/2)+' · '+n(rh)+' = '+n(ra*rb*rh/2)+' cm³.'))
     ]),
     group('29.12','Rúmmál, möttull og yfirborð',[
-      numeric('Hve margir lítrar?','Þrístrendingurinn hefur rétthyrndan grunnflöt. Hvert er rúmmál hans í lítrum?','R','ℓ',triangleDrawing([c,a,hc],'m',true),Rc*1000,
+      numeric('Hve margir lítrar?','Grunnflötur þrístrendingsins er rétthyrndur þríhyrningur. Hvert er rúmmál hans í lítrum?','R','ℓ',triangleDrawing([c,a,hc],'m',true),Rc*1000,
         ['Finndu fyrst flatarmál þríhyrningsins og margfaldaðu með hæð strendingsins.','Einn rúmmetri er 1 000 lítrar.'],formula('G = '+n(Gc)+' m². R = '+n(Gc)+' · '+n(hc)+' = '+n(Rc)+' m³ = '+n(Rc*1000)+' ℓ.'),[[Rc,'Þú hefur fundið rúmmálið í rúmmetrum. Breyttu því í lítra.']]),
       numeric('Flatarmál möttulsins','Finndu samanlagt flatarmál þriggja rétthyrndu hliðarfletanna. Þríhyrndu grunnfletirnir teljast ekki með.','M','m²',triangleDrawing([c,a,hc],'m',true),M,
         ['Þú þarft allar þrjár hliðarlengdir þríhyrningsins. Finndu langhliðina með reglu Pýþagórasar.','Margfaldaðu ummál þríhyrningsins með hæð strendingsins.'],
         'Langhlið þríhyrningsins er '+n(hyp)+' m. '+formula('M = ('+n(a)+' + '+n(c)+' + '+n(hyp)+') · '+n(hc)+' = '+n(M)+' m².')),
-      numeric('Allt yfirborðið','Möttulflöturinn er '+n(M)+' m². Hvert er yfirborðsflatarmál strendingsins þegar báðir endafletirnir eru lokaðir?','YF','m²',triangleDrawing([c,a,hc],'m',true),M+2*Gc,
-        ['Bættu við báðum þríhyrndu grunnflötunum.',formula('YF = M + 2G')],formula('YF = '+n(M)+' + 2 · '+n(Gc)+' = '+n(M+2*Gc)+' m².'),[[M+Gc,'Það eru tveir þríhyrndir endafletir. Báðir teljast með.']])
+      numeric('Allt yfirborðið','Flatarmál möttulsins er '+n(M)+' m². Hvert er yfirborðsflatarmál strendingsins þegar báðir endafletirnir eru lokaðir?','YF','m²',triangleDrawing([c,a,hc],'m',true),M+2*Gc,
+        ['Bættu við flatarmáli beggja þríhyrndu grunnflatanna.',formula('YF = M + 2G')],formula('YF = '+n(M)+' + 2 · '+n(Gc)+' = '+n(M+2*Gc)+' m².'),[[M+Gc,'Það eru tveir þríhyrndir endafletir. Báðir teljast með.']])
     ]),
     group('29.13','Tvö þrep',[
       numeric('Rúmmál tröppunnar','Trappan er gegnheil og þrepin tvö eru jafnhá. Hvert er rúmmál hennar í rúmmetrum?','R','m³',stairsDrawing(d.stairs),stairG*width/1e6,

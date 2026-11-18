@@ -103,7 +103,7 @@ function buildLesson(round){
     formula('r = '+n(prm)+' m og h = '+n(phm)+' m. R = ')+frac('π · '+n(prm)+'² · '+n(phm),'3')+formula(' ≈ '+n(pileR,2)+' m³.'),2)
   ]),
   group('29.31','Hæð eða skáhlið?',[
-   {title:'Hvaða reikningur gefur möttulinn?',question:'Veldu reikninginn sem gefur flatarmál möttuls keilunnar. Hringlaga grunnflöturinn telst ekki með.',board:coneDrawing({r:mr,h:mh,l:ml,slant:true}),
+   {title:'Hvaða reikningur gefur flatarmál möttulsins?',question:'Veldu reikninginn sem gefur flatarmál möttuls keilunnar. Hringlaga grunnflöturinn telst ekki með.',board:coneDrawing({r:mr,h:mh,l:ml,slant:true}),
     options:['π · '+n(mr)+' · '+n(mh),'π · '+n(mr)+'²','π · '+n(mr)+' · '+n(ml)],answer:2,
     hints:['Möttulsformúlan notar skáhlið keilunnar, ekki hornréttu hæðina.',formula('M = πrl')],
     explain:'Radíus er '+n(mr)+' cm og skáhliðin l er '+n(ml)+' cm. Því er reikningurinn '+formula('M = π · '+n(mr)+' · '+n(ml))+'.',

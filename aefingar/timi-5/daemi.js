@@ -62,7 +62,7 @@ function buildLesson(round){
  const compare=wa*da**3===wb*db**3?2:wa*da**3>wb*db**3?0:1;
  const [coverD,percent]=d.cover,coverR=coverD/2,curved=2*pi*coverR**2,factor=1+percent/100;
  const areaChoices=[{text:frac('4 · π · '+n(ar)+'³','3'),wrong:'Þetta er rúmmálsformúlan. Yfirborðsflatarmál er mælt í ferningseiningum.'},
- {text:'2 · π · '+n(ar)+'²',wrong:'Þetta gefur bogið yfirborð hálfkúlu. Hér er spurt um heila kúlu.'}];
+ {text:'2 · π · '+n(ar)+'²',wrong:'Þetta gefur flatarmál bogna yfirborðs hálfkúlu. Hér er spurt um heila kúlu.'}];
  areaChoices.splice(round,0,{text:'4 · π · '+n(ar)+'²',wrong:''});
  return [
   group('29.37','Rúmmál frá radíus',[
@@ -125,7 +125,7 @@ function buildLesson(round){
   ],true),
   group('29.46','Dúkur yfir hálfkúlu',[
    numeric('Aðeins bogna yfirborðið','Klæða á hálfkúlulaga gróðurhlíf með dúk. Þvermálið er '+n(coverD)+' m. Hvert er flatarmál bogna yfirborðsins? Botninn telst ekki með.','F','m²',hemisphereDrawing(coverD,'m','peach'),curved,
-    ['Bogið yfirborð hálfkúlu er helmingur af yfirborði heillar kúlu.','Finndu radíus og notaðu '+formula('F = 2πr²')+'.'],
+    ['Flatarmál bogna yfirborðs hálfkúlu er helmingur af yfirborðsflatarmáli heillar kúlu með sama radíus.','Finndu radíus og notaðu '+formula('F = 2πr²')+'.'],
     formula('r = '+n(coverR)+' m. F = 2 · π · '+n(coverR)+'² ≈ '+n(curved,2)+' m².'),2,
     [[roundTo(3*pi*coverR*coverR),'Það telur hringlaga botnflötinn með. Hér á aðeins að þekja bogna yfirborðið.'],[roundTo(4*pi*coverR*coverR),'Þetta er yfirborð heillar kúlu. Hlífin er hálfkúla.']]),
    numeric('Dúkur með viðbót','Bæta þarf '+n(percent)+'% við vegna samskeyta og afskurðar. Hve marga fermetra af dúk þarf samtals? Notaðu ónámundað flatarmál úr fyrra skrefi.','F','m²',hemisphereDrawing(coverD,'m','peach'),curved*factor,

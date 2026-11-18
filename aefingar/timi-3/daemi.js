@@ -108,7 +108,7 @@ function buildLesson(round){
   group('29.22','Pappír utan um kerti',[
    numeric('Pappír fyrir öll kertin','Setja á pappír utan um '+n(number)+' eins sívalningslaga kerti. Hvert kerti hefur radíusinn '+n(wr)+' cm og hæðina '+n(wh)+' cm. Pappírinn hylur aðeins möttulinn; brúnirnar mætast án skörunar. Hversu marga fermetra þarf samtals?','F','m²',cylinderDrawing(wr,wh,'cm',false,true),wrapAll,
     ['Finndu flatarmál möttuls eins kertis og margfaldaðu með fjölda kertanna.','Einn fermetri er 10 000 cm². Deildu samanlögðu flatarmáli í fersentimetrum með 10 000.'],
-    'Möttull eins kertis er '+n(2*wr*wh)+'π cm². '+formula('F = ')+frac(n(number)+' · '+n(2*wr*wh)+'π','10 000')+formula(' ≈ '+n(wrapAll,2)+' m².'),2)
+    'Flatarmál möttuls eins kertis er '+n(2*wr*wh)+'π cm². '+formula('F = ')+frac(n(number)+' · '+n(2*wr*wh)+'π','10 000')+formula(' ≈ '+n(wrapAll,2)+' m².'),2)
   ]),
   group('29.23','Málning á staura',[
    numeric('Flatarmálið sem er málað','Mála á möttul '+n(count)+' eins sívalningslaga staura. Hæð hvers staurs er '+n(ph)+' m og þvermálið '+n(pd)+' m. Endafletirnir eru ekki málaðir. Hvert er samanlagt flatarmál möttlanna?','M','m²',postsDrawing(d.posts),pM,

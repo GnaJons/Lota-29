@@ -63,7 +63,7 @@ function renderProgress(){
 }
 function boardHTML(task,r){
   const toggle=typeof task.board==='object';
-  return '<div class="board">'+(toggle?'<div class="figure-switch" role="group" aria-label="Birting myndar"><button data-view="net" aria-pressed="'+(!r.folded)+'">Net</button><button data-view="folded" aria-pressed="'+r.folded+'">Teningur</button></div>':'')+
+  return '<div class="board">'+(toggle?'<div class="figure-switch" role="group" aria-label="Birting myndar"><button data-view="net" aria-pressed="'+(!r.folded)+'">Snið</button><button data-view="folded" aria-pressed="'+r.folded+'">Teningur</button></div>':'')+
     (toggle?(r.folded?task.board.folded:task.board.net):task.board)+'</div>';
 }
 function render(focus=false){

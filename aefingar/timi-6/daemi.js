@@ -167,7 +167,7 @@ function buildLesson(round){
     formula('r = '+n(tr)+' m. R = ')+frac('π · '+n(tr)+'² · '+n(tl),'2')+formula(' ≈ '+n(tunnelV,2)+' m³.'),2,
     [[roundTo(2*tunnelV),'Skýlið er aðeins hálfur sívalningur.']]),
    numeric('Dúkur á skýlið','Hve marga fermetra af dúk þarf á bogna þakið og báða gaflana? Gólfið telst ekki með. Ekki draga op frá eða bæta við fyrir samskeyti. Hunsa má þykkt dúksins.','F','m²',tunnelDrawing(d.tunnel),tunnelA,
-    ['Teldu þá fleti sem á að þekja. Grunnflöturinn undir skýlinu telst ekki með.','Þakið er hálfur möttull sívalnings. Tveir hálfhringir á göflunum mynda saman heilan hring.'],
+    ['Teldu þá fleti sem á að þekja. Gólfið undir skýlinu telst ekki með.','Þakið er hálfur möttull sívalnings. Tveir hálfhringir á göflunum mynda saman heilan hring.'],
     formula('F = π · '+n(tr)+' · '+n(tl)+' + π · '+n(tr)+'² ≈ '+n(tunnelA,2)+' m².'),2,
     [[roundTo(pi*tr*tl),'Þetta er aðeins þakið. Gaflarnir tveir eiga líka að vera með.'],[roundTo(tunnelA+td*tl),'Gólfið á ekki að telja með.']])
   ]),
