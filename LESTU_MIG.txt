@@ -1,0 +1,62 @@
+LOTA 29 - FORM OG FORMÚLUR
+
+17 nýjar skýringarmyndir í mosagrænum og okkurgulum litum. R = rúmmál; YF = yfirborðsflatarmál; M = flatarmál möttuls; G = flatarmál grunnflatar.
+
+PNG-myndir eru í myndir/. SVG-myndir eru í svg/. Yfirlit.html opnast án nettengingar. Frumkóði fylgir í frumkodi/ og þarf Node.js og sharp.
+
+Myndirnar eru tilbúnar til að bæta inn við eftirfarandi umfjöllun á vefsíðunni. Vefsíðan sjálf hefur ekki verið uppfærð. Fyrri 19 dæmamyndirnar eru sérstakur pakki.
+
+L29_F01_ferstrendingur.png
+1. tími, við „Rúmmál kassa“ og „Yfirborðsflatarmál kassa“.
+
+L29_F02_teningur.png
+1. tími, við „Teningur og snið“.
+
+L29_F03_rettur_strendingur.png
+2. tími, við „Tveir eins grunnfletir“ og „Flatarmál möttuls og alls yfirborðs“.
+
+L29_F04_thristraendingur.png
+2. tími, við skýringuna á rúmmáli þrístrendings.
+
+L29_F05_sivalningur.png
+3. tími, við „Hringlaga grunnfletir“.
+
+L29_F06_sivalningur_mottull_og_grunnfletir.png
+3. tími, við „Flatarmál möttuls sívalnings“.
+
+L29_F07_pyramidi.png
+4. tími, við „Grunnflötur og toppur“.
+
+L29_F08_keila.png
+4. tími, við „Rúmmál keilu“ og „Skáhlið keilu og flatarmál möttuls“.
+
+L29_F09_sivalningur_keilubotn.png
+4. tími, við „Samsett rúmmál“.
+
+L29_F10_kula.png
+5. tími, við „Radíus, þvermál og rúmmál kúlu“.
+
+L29_F11_halfkula.png
+5. tími, við „Yfirborðsflatarmál kúlu og hálfkúlu“.
+
+L29_F12_halfsivalningur.png
+6. tími, við „Rúmmál og efni í skýli“.
+
+L29_F13_sivalningur_halfkula.png
+6. tími, við samsett rúmmál sívalnings og hálfkúlu.
+
+L29_F14_einslaga_rumhlutir.png
+6. tími, við „Prósentubreyting á lengd, flatarmáli og rúmmáli“; einnig 7. tími, hlutföll.
+
+L29_F15_ferningspyramidi_yfirbord.png
+7. tími, við „Hæð hliðarflatar og óþekktar grunnbrúnir“.
+
+L29_F16_rumhornalina_kassa.png
+7. tími, við „Hornalína í kassa“.
+
+L29_F17_keila_halfkula.png
+7. tími, við dæmið um keilu á hálfkúlu og ytra yfirborð.
+
+VIÐMIÐ: rumfraediformulur-talnahus-yfirfarid.tex (formúlublaðið). Aðalformúlur, röð þátta og tákn eru samræmd við það: YF, l, b, h, r, G, U og M. Á myndum af samsettum hlutum eru formúlurnar lagðar saman eða viðeigandi fletir dregnir frá. Einslögun og hornalína kassa eru beiting á reglunum, ekki sérstakar formúlur prentaðar á blaðinu.
+
+Skýringarmyndirnar eru ekki ætlaðar til lengdarmælinga. Yfirborðsformúlur eiga við um alla ytri fleti nema annað sé tekið fram. SVG notar Cambria með Georgia/serif til vara. PNG varðveitir letrið.
